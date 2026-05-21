@@ -3,8 +3,6 @@
 #include <algorithm>
 #include <chrono>
 #include <vector>
-#include <iostream>
-#include <random>
 #include <cstring>
 #include "gelu_omp.h"
 

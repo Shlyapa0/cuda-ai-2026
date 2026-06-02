@@ -405,6 +405,7 @@ One may use numba or C strings to write CUDA kernels.
 |default|pigasin_dmitry|0.3863|6|
 |**REF**|**REF**|**0.4536**|**-**|
 |default|zemskov_roman|TEST FAILED|-|
+|default|kryukov_dmitry|TEST FAILED|-|
 
 ## 2_gelu_cuda (134217728 elements)
 |Group|Name|Result|Rank|
